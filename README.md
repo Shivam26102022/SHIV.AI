@@ -1,6 +1,6 @@
 # SHIV.AI 
 
-##Daily Tasks
+**Daily Tasks**
 
-###29 DEC 2023
+### 29 DEC 2023
 
